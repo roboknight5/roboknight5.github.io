@@ -4,7 +4,7 @@ body {
     background: url(bg.jpg) no-repeat;
     background-size: cover;
     background-position: center;
-
+    padding: 5%;
 }
 .box{
     width:450px;
@@ -12,12 +12,10 @@ body {
     padding: 40px;
     text-align: center;
     margin: auto;
-    margin-top: 5%;
     color: white;
     font-family: 'Times New Roman', Times, serif;
     border-radius: 10%;
 }
-
 
 .box-img{
     border-radius: 50%;
