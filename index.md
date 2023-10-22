@@ -38,7 +38,7 @@ programming_languages:
   - image_path: /assets/images/ide.png
     alt: "placeholder image 2"
     title: "Programming Languages"
-    excerpt:  "Experience developing in programming languages such as **C/C++**, **Python**, **Javascript**, **C#**, **Java**, **Dart**."
+    excerpt:  "Experience developing in programming languages such as **C/C++**, **Python**, **Javascript**, **C#**, **Java**, **Dart**, **Php**."
 # frontend:
 #   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
 #   alt: "placeholder image 1"
@@ -100,7 +100,7 @@ programming_languages:
 
 
 ## My Skills
-### Full-Stack Development
+# Full-Stack Development
 {% include my_feature_row id="fullstack" %}
 
 
