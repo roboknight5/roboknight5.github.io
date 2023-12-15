@@ -28,7 +28,7 @@ mobile_application:
   - image_path: /assets/images/application.png
     alt: "placeholder image 2"
     title: "Mobile Application"
-    excerpt: "**Design** and **Build** mobile application using frameworks such as **Flutter** , **React Native** and **Capacitor** that guarantee great **UI/UX** experience for clients while achieving the functionality and business logic needed by the system."
+    excerpt: "**Design** and **Build** mobile apps using frameworks such as **Flutter** and **React Native** that guarantee great **UI/UX** experience for clients while achieving the functionality and business logic needed by the system."
 hardware:
   - image_path: /assets/images/iot.png
     alt: "placeholder image 2"
